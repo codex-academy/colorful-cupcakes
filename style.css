@@ -1,0 +1,50 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #3a86ff;
+    color: whitesmoke;
+}
+
+.cupcake {
+    display: flex;
+}
+
+.flex1 {
+    /* flex : 1 */
+}
+
+.flex2 {
+    flex : 2
+}
+
+.pl1 {
+    padding-left: 1em;
+}
+
+.img {
+    align-self: flex-start;
+    height: auto; 
+    max-width: 100%;
+}
+
+
+.cupcake_box {
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+}
+
+.cupcake1 {
+    background-color: #ff006e;
+}
+
+.cupcake2 {
+    background-color: #fb5607;
+}
+
+.cupcake3 {
+    background-color: #8338ec;
+}
+
+.blue {
+    background-color: #3a86ff;
+}
