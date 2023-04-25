@@ -1,6 +1,6 @@
 # GitHub branches with CSS coolers
 
-[] Fork & clone this repo.
+[*] Fork & clone this repo.
 
 [] Pick a color theme from [coloors.com](http://coloors.com).
 
