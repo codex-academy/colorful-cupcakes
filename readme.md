@@ -1,8 +1,7 @@
 # GitHub branches with CSS coolers
 
--[*] Fork & clone this repo.
-
--[] Pick a color theme from [coloors.com](http://coloors.com).
+* Fork & clone this repo.
+* Pick a color theme from [coloors.com](http://coloors.com).
 
 -[] Change the `cupcake1`, `cupcake2` & `cupcake3` classes - with a colors from the [coloors.com](http://coloors.com) theme you selected.
 
