@@ -2,7 +2,7 @@
 
 Do the following:
 
-* Fork & clone this repo.   
+[ ] Fork & clone this repo.   
 * Pick a color theme from [coloors.com](http://coloors.com).
 * Change the `cupcake1`, `cupcake2` & `cupcake3` classes - with a colors from the [coloors.com](http://coloors.com) theme you selected.
 * Add your changes to git & push your changes to GitHub.
